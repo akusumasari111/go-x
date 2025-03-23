@@ -44,3 +44,5 @@ func WithSubscriber(queueName string, handler SubscriptionHandler) SubscriberOpt
 		Handler:   handler,
 	}
 }
+
+// fitur autentikasi pengguna
