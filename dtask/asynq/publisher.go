@@ -12,8 +12,8 @@ import (
 )
 
 const (
-	DefaultTimeout   = time.Second * 10
 	DefaultMaxRetry  = 10
+	DefaultTimeout   = time.Second * 10
 	DefaultRetention = time.Hour * 2
 )
 
