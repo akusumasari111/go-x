@@ -6,4 +6,5 @@ type Task interface {
 	Type() string
 }
 
+// 2
 // Memperbarui README.md dengan petunjuk instalasi
