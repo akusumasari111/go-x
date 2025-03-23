@@ -5,8 +5,3 @@ type Task interface {
 	TaskID() string
 	Type() string
 }
-
-// 2
-// 3
-// 4
-// 5
