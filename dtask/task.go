@@ -5,3 +5,5 @@ type Task interface {
 	TaskID() string
 	Type() string
 }
+
+// Memperbarui README.md dengan petunjuk instalasi
